@@ -4,13 +4,13 @@ A professional and responsive freelancing marketplace platform developed as part
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The Week 2 task focused on transforming the initial marketplace landing page into a more interactive freelancing platform by implementing marketplace functionality, service discovery features, freelancer profiles, and service details pages.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Freelancer marketplace page
 * Search freelancers and services
@@ -29,7 +29,7 @@ The Week 2 task focused on transforming the initial marketplace landing page int
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3
@@ -40,7 +40,7 @@ The Week 2 task focused on transforming the initial marketplace landing page int
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 freelancing-marketplace/
@@ -54,7 +54,7 @@ freelancing-marketplace/
 
 ---
 
-## 📅 Internship Task – Week 2
+##  Internship Task – Week 2
 
 **Task:** Marketplace Functionality & User Interaction
 
@@ -64,7 +64,7 @@ The objective of this task was to extend the Week 1 foundation by adding marketp
 
 ---
 
-## 🎯 What I Learned
+##  What I Learned
 
 During this task, I learned how to build multi-page frontend applications, manage data between pages using Local Storage, implement search and filtering systems, create dynamic user interactions, and improve user experience through responsive design and JavaScript functionality.
 
@@ -81,7 +81,7 @@ I also gained practical experience in:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 The platform can be further enhanced with:
 
